@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4l3j4ndr4dev
 - 👀 I’m interested in wed development 
-- 🌱 I’m currently learning frontend 
+- 🌱 I’m currently learning Backend 
 - 💞️ I’m looking to collaborate on what i have no idea yet
 - 📫 How to reach me sent ms a message first, I don't like to be call
 - 
